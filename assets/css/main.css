@@ -1801,7 +1801,7 @@ input, select, textarea {
 	}
 
 	article p {
-		color: #a2a2a2;
+		color: #676767;
 	}
 
 	article a:hover h3,
@@ -2577,12 +2577,12 @@ input, select, textarea {
 		}
 
 		.work-item h3 {
-			font-size: 1em;
+			font-size: 1rem;
 			margin: 0 0 0.5em 0;
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			font-size: 0.8rem;
 			line-height: 1.5em;
 			margin: 0;
 		}
