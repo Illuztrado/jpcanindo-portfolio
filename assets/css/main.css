@@ -2587,6 +2587,11 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		.work-item h3,
+		.work-item p {
+			text-align: center;
+		}
+
 /* Header */
 
 	#header {
