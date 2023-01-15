@@ -123,7 +123,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #787878;
-		font-weight: 400;
+		font-weight: 700;
 	}
 
 	em, i {
@@ -132,6 +132,10 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+	}
+
+	a.project-link p {
+		margin-bottom: 1rem;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2376,6 +2380,7 @@ input, select, textarea {
 
 		}
 
+
 /* Table */
 
 	.table-wrapper {
@@ -2468,7 +2473,7 @@ input, select, textarea {
 		height: 3.15em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
-		min-width: 10em;
+		min-width: 9em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
